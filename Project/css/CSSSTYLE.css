@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding:0; 
+	
+	
+	}
+body img{
+	width:100%;
+	height:auto;
+	}
+.header{background-image: url(../img/bg-01.jpg); background-size:cover;}
+a{
+	color: white;
+	display: inline-block;
+	padding: 20px;
+ text-decoration:underline;
+	
+ 
+}
+
+

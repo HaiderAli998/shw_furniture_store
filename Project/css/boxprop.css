@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+ .box:hover {
+  background-color:#D6D5D5;
+  transform: scale(1.2);
+}
+a:focus {color:#000000;
+}
+
+.box {
+	 background-color:#FFFFFF ; margin:20px ; text-align:center; transition: transform .2s ease;
+}
+
+img { WIDTH:250px; HEIGHT:200px; float:center;	}
+	
+a {
+	font-weight:700;
+	font-size:14px;
+}
+u {font-size:16px;
+font-weight:900; }/* CSS Document */
+
